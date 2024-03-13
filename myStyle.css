@@ -1,0 +1,16 @@
+h2,h3,h4,h5,h6{
+  background-color: tomato;
+  color:cyan ;
+  font-family: Arial;
+}
+
+p{
+  background-color: darkgreen;
+  color: yellow;
+  font-size: 40px;
+  font-family: fantasy;
+  border: 20px;
+  border-radius: 0%;
+  border-style: solid;
+  border-color: yellow;
+}
